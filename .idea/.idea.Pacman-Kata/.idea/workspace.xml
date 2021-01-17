@@ -4,13 +4,33 @@
     <projectFile>Pacman-Kata/Pacman-Kata.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca7e8854-4421-4b6e-bde6-6f7ce28ea360" name="Default Changelist" comment="" />
+    <list default="true" id="ca7e8854-4421-4b6e-bde6-6f7ce28ea360" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Pacman-Kata/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-Kata/Board.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pacman-Kata/Game.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pacman-Kata/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pacman-Kata/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pacman-Kata/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pacman-Kata/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pacman-Kata/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Pacman-Kata/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/README.md" />
+      <option value="$PROJECT_DIR$/Pacman-Kata/Program.cs" />
+      <option value="$PROJECT_DIR$/Pacman-Kata/Game.cs" />
+      <option value="$PROJECT_DIR$/Pacman-Kata/Board.cs" />
+    </changedPaths>
+  </component>
   <component name="ProjectId" id="1myyAgWN5bSQqTztqTntW9RoX9p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,14 +70,26 @@
       <option name="presentableId" value="Default" />
       <updated>1610479987513</updated>
       <workItem from="1610479999298" duration="1014000" />
+      <workItem from="1610912222204" duration="1962000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

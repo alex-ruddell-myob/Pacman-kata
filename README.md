@@ -14,4 +14,8 @@
 * Levels
 * Animate pacman eating
 
-## My thought process..
+## My thought process...
+* Create the board
+* Populate board
+* Make board tick
+* Make pacman move on tick
