@@ -1,0 +1,15 @@
+/Users/Alex.Ruddell/Documents/Pacman-Kata/Pacman-Kata/bin/Debug/net5.0/Pacman-Kata.deps.json
+/Users/Alex.Ruddell/Documents/Pacman-Kata/Pacman-Kata/bin/Debug/net5.0/Pacman-Kata.runtimeconfig.json
+/Users/Alex.Ruddell/Documents/Pacman-Kata/Pacman-Kata/bin/Debug/net5.0/Pacman-Kata.runtimeconfig.dev.json
+/Users/Alex.Ruddell/Documents/Pacman-Kata/Pacman-Kata/bin/Debug/net5.0/Pacman-Kata.dll
+/Users/Alex.Ruddell/Documents/Pacman-Kata/Pacman-Kata/bin/Debug/net5.0/ref/Pacman-Kata.dll
+/Users/Alex.Ruddell/Documents/Pacman-Kata/Pacman-Kata/bin/Debug/net5.0/Pacman-Kata.pdb
+/Users/Alex.Ruddell/Documents/Pacman-Kata/Pacman-Kata/obj/Debug/net5.0/Pacman-Kata.csprojAssemblyReference.cache
+/Users/Alex.Ruddell/Documents/Pacman-Kata/Pacman-Kata/obj/Debug/net5.0/Pacman-Kata.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alex.Ruddell/Documents/Pacman-Kata/Pacman-Kata/obj/Debug/net5.0/Pacman-Kata.AssemblyInfoInputs.cache
+/Users/Alex.Ruddell/Documents/Pacman-Kata/Pacman-Kata/obj/Debug/net5.0/Pacman-Kata.AssemblyInfo.cs
+/Users/Alex.Ruddell/Documents/Pacman-Kata/Pacman-Kata/obj/Debug/net5.0/Pacman-Kata.csproj.CoreCompileInputs.cache
+/Users/Alex.Ruddell/Documents/Pacman-Kata/Pacman-Kata/obj/Debug/net5.0/Pacman-Kata.dll
+/Users/Alex.Ruddell/Documents/Pacman-Kata/Pacman-Kata/obj/Debug/net5.0/ref/Pacman-Kata.dll
+/Users/Alex.Ruddell/Documents/Pacman-Kata/Pacman-Kata/obj/Debug/net5.0/Pacman-Kata.pdb
+/Users/Alex.Ruddell/Documents/Pacman-Kata/Pacman-Kata/obj/Debug/net5.0/Pacman-Kata.genruntimeconfig.cache
